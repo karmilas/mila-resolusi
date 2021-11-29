@@ -2,6 +2,10 @@ RENCANA KONTENT
 - github
  * regitrasi akun
  * Membuat repositori
+  ^ mila-resolusi
+  ^ web-portofolio
 - git
 - vlog
+ * jalan-jalan
 - Struktur Data Dasar
+- Laravel
