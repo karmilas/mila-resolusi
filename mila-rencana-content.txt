@@ -2,6 +2,8 @@ RENCANA KONTENT
 - github
  * regitrasi akun
  * Membuat repositori
+ ^ about
+ ^ web-portofolio
 - git
 - vlog
-- Struktur Data Dasar
+ * jalan-jalan
