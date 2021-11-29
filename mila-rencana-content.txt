@@ -3,6 +3,7 @@ RENCANA KONTENT
  * regitrasi akun
  * Membuat repositori
   ^ mila-resolusi
+  ^ web-portofolio
 - git
 - vlog
  * jalan-jalan
