@@ -1,4 +1,6 @@
 RENCANA KONTENT
 - github
+ * regitrasi akun
+ * Membuat repositori
 - git
 - vlog
