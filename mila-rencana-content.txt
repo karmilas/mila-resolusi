@@ -4,3 +4,4 @@ RENCANA KONTENT
  * Membuat repositori
 - git
 - vlog
+- Struktur Data Dasar
